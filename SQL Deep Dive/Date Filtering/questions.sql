@@ -2,6 +2,8 @@
 * DB: Employees
 * Table: employees
 * Question: Get me all the employees above 60, use the appropriate date functions
+
+* DONE!!!
 */
 
 SELECT * FROM employees;
